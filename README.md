@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tia</h1>
 
-👨‍💻 I’m currently learning **Kotlin**, **Django**
+🎓 I am a software engineering student.   
+👨‍💻 I am currently learning **Kotlin**.  
+
+![](https://komarev.com/ghpvc/?username=tialedencan&color=4F6F52)
 
 <p align="left">
 </p>
