@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Tia</h2>
 
-🎓 univ. mag. ing. comp (software engineering)   
+🎓 univ. mag. ing. comp. (software engineering)   
 👨‍💻 Android developer
 
 ![](https://komarev.com/ghpvc/?username=tialedencan&color=4F6F52)
